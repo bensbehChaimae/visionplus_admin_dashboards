@@ -6,7 +6,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Calendar API](https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
-## Overview 
+## Overview  
 
 This project is the second phase of the **Vision+ Clinic AI Medical Receptionist System**.  
 
